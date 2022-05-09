@@ -11,8 +11,8 @@ const timing = {
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"}, */
-    "dl1": {"date": "2022-05-14T23:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
-    "dl2": {"date": "2022-05-21T23:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
+    "dl1": {"date": "2022-05-14T23:59:59+03:00", "en": "DL 1", "fi": "DL 1"},
+    "dl2": {"date": "2022-05-21T23:59:59+03:00", "en": "DL 2", "fi": "DL 2"},
     "dl3": {"date": "2022-05-28T23:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
     "dl4": {"date": "2022-06-04T23:59:59+03:00", "en": "DL 4", "fi": "DL 4"},
     /*"dl0": {"date": "2022-06-18T23:59:59+03:00", "en": "Holiday", "fi": "Loma"},*/
@@ -24,7 +24,7 @@ const timing = {
     "demo2": {"date": "2020-10-26", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},
     "demo3": {"date": "2020-10-28", "fi": "Demotilaisuus", "en": "Demo Session", "common": "14-16 Zoom"},
     "demo4": {"date": "2020-10-29", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},*/
-    "end": {"date": "2022-06-30T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "end": {"date": "2022-06-30T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
 const doodleSent = false;
